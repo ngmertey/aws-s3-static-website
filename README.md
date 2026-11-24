@@ -2,7 +2,7 @@
 
 A small React (Vite) site hosted on Amazon S3 static website hosting and deployed with the AWS CLI.
 
-> **Status:** learning project. Not production-ready (see Security considerations).
+> **Status:** completed learning project. The bucket was deleted after testing; the screenshots show the live deployment. Not production-ready (see Security considerations).
 
 ## Overview
 
